@@ -16,7 +16,7 @@ cloudinary.config({
 // Upload image
 router.post('/upload', (req, res) =>{
     try {
-        console.log(req.files)
+        // console.log(req.files)
         if(!req.files || Object.keys(req.files).length === 0)
             return res.status(400).json({msg: 'No files were uploaded.'})
         

@@ -15,9 +15,13 @@
 </ul>
 
 ### Installing
-<h6>git clone https://github.com/Zaruhi02/ecommerce-backend.git</h6>
-<h6>cd ecommerce-backend --> npm install</h6>
-<h6>npm run dev</h6>
+```
+git clone https://github.com/Zaruhi02/ecommerce-backend.git
+cd ecommerce-backend --> npm install
+npm run dev
+
+```
+
 
 ### Getting started
 <h7>To test the application</h7>
